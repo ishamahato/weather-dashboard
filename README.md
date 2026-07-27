@@ -155,12 +155,6 @@ Add your API key:
 VITE_WEATHER_API_KEY=your_api_key_here
 ```
 
-Example:
-
-```env
-VITE_WEATHER_API_KEY=ab12cd34ef56gh78ij90kl12mn34op56
-```
-
 ⚠ Restart the development server after updating the API key.
 
 ---
