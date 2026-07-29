@@ -355,6 +355,4 @@ Add it to `.gitignore`:
 
 **Isha Mahato**
 
-[GitHub](https://github.com/isha-mahato)
 
-[LinkedIn](https://www.linkedin.com/in/isha-mahato)
